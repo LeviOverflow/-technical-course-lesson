@@ -1,4 +1,4 @@
-# -technical-course-lesson
+# c++
 help me please 
 //I have to create a repeat loop that prints 60 random values (from 1 to 100), but the printed values can not repeat.
 //Language: C 
